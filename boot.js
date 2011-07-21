@@ -8,4 +8,4 @@ gh.configure({
 
 require('./routes');
 
-gh.serve(8080);
+gh.serve(80);
